@@ -1,0 +1,109 @@
+{
+    "bot": {
+        "token": "TOKEN GİR",
+        "owner": ["", ""],
+        "prefix": ".",
+        "BotStatus": "Developed by Raine ❤️",
+        "BotFooter": "Developed by Raine ❤️",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "BAN STAFF ID GİR",
+            "log": "BAN LOG ID GİR",
+            "limit": 3
+        },
+        "unban": {
+            "staff": "UNBAN STAFF ID GİR",
+            "log": "UNBAN LOG ID GİR",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "JAİL STAFF ID GİR",
+            "roles": "JAİL İD GİR",
+            "log": "JAİL LOG ID GİR",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "MUTE STAFF ID GİR",
+            "roles": "MUTELİ ID GİR",
+            "log": "MUTE LOG ID GİR",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "UYARI STAFF ID GIR",
+            "log": "UYARI LOG GIR"
+        },
+        "points": {
+            "mutepoints": "15",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "10"
+        }
+    },
+    "logs": {
+        "messagelog": "MESAJ LOG ID",
+        "taglog": "TAG LOG ID"
+    },
+    "roles": {
+        "boosterrole": "BOOSTER ROL ID",
+        "viprole": "VIP ROL ID",
+        "designerrole": "TASARİMCİ ROL ID",
+        "streamer": "STREAMER ID",
+        "musiciansrole": "MÜZİSYEN ROL ID",
+        "team": "TAGLI ROL ID",
+        "enaltyetkibaslat": "EN ALT YETKİ ID",
+        "sponsored": "SPONSOR ROL ID"
+    },
+    "channels": {
+        "chat": "CHAT ID",
+        "voicechannel": "BOTUN GİRECEĞİ KANAL ID",
+        "welcomechannel": "KAYIT TEXT KANALI ID (SES DEĞİL)",
+        "rules": "KURALLAR KANALI ID"
+    },
+    "parents": {
+        "publicparents": "PUBLIC KATEGORI ID"
+    },
+    "registration": {
+        "unregistered": "KAYITSIZ ROL ID",
+        "man": ["ERKEK ROL ID 1", "ERKEK ROL ID 2"],
+        "woman": ["KADIN ROL ID 1", "KADIN ROL ID 2"],
+        "staff": "REGİSTER STAFF",
+        "GuilDTag": "TAGINIZ",
+        "TagSymbol": "•",
+        "autonickname": "• İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "ŞÜPHELİ HESAP ROL İD",
+        "susoeciosnickname": "Şüpheli Hesap",
+        "oneman": "ERKEK ROL 1 ID",
+        "onewoman": "KADIN ROL 1 ID",
+        "minage": 16, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "SUNUCU ID",
+        "GuilDName": "SUNUCU ISMI",
+        "GuildOwnerRole": [""],
+        "emperor": "OWNER ROL ID"
+    },
+    "emojis": {
+        "tada": "981188179115782155",
+        "accept": "981188178088194048",
+        "no": "981188178897690624"
+    },
+    "buttons": {
+        "giveaway": "989505892355539014",
+        "activity": "989505893953585163"
+    },
+    "team": {
+
+    },
+    "YasakliTaglar": [
+        { "activity": true, "type": "discriminator", "tag": "0213" },
+        { "activity": true, "type": "discriminator", "tag": "1467" },
+        { "activity": true, "type": "discriminator", "tag": "1080" },
+        { "activity": true, "type": "username", "tag": "ʟᴛᴇ"},
+        { "activity": true, "type": "username", "tag": "公" },
+        { "activity": true, "type": "username", "tag": "➹" }
+    ]
+}
