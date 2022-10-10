@@ -1,7 +1,7 @@
 # Discord Public Supervisor
 
 # Yapmanız gerekenler:
-* İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indirin.
+* İlk olarak bilgisayarınıza [Node JS](https://nodejs.org/en/) indirin.
 * Daha sonrasında [MongoDB](http://mongodb.com) hesabı oluşturup, connection linkini al. (Nasıl yapılacağını bilmeyenler YouTubedan araştırabilir)
 * Code butonuna tıklayıp, Download ZIP'a tıklayıp indirin.
 * Sonrasında herhangi bir klasöre zipi çıkartın.
