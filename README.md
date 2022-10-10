@@ -17,3 +17,6 @@
 
 ### NOT: Botta MIT lisansı bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
 
+# Görseller
+![image](https://i.hizliresim.com/a6d7pl5.png)
+
