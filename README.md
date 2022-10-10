@@ -1,4 +1,4 @@
-# Raine Discord Public Supervisor
+# Discord Public Supervisor
 
 # Yapmanız gerekenler:
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indirin.
