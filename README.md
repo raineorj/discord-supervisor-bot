@@ -8,7 +8,7 @@
 * Klasörünün içindeki `config.json` dosyasının içindeki bilgileri doldurun.
 * Devamında klasörün içerisinde sağ tıklayıp, bir `powershell` ya da `cmd` penceresi açın.
 * Açılan pencereye ```npm install``` yazarak tüm modülleri kurun.
-* Kurulum bittikten sonra ```npm start``` yazıp, botunuzu başlatın.
+* Kurulum bittikten sonra ```npm bot.js``` yazıp, botunuzu başlatın.
 
 # İletişim:
 * [Discord Server](https://discord.gg/juTHxntAp4)
